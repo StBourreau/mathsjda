@@ -1,6 +1,6 @@
 ---
 title: "Quatrièmes"
-order: 4
+order: 1
 in_menu: true
 ---
 # <font style="color:green; font-size:1.0em"><center>Des propositions pour les élèves de 4<sup>èmes</sup></center></font>
